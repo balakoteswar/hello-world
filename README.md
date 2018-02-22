@@ -1,7 +1,6 @@
 # hello-world
-Just an example repository
 
 
 Hi Guys,
 
-  This is Bala here, I'm trying understand this version control system.
+  This is Bala here, I'm trying to understand this version control system.
