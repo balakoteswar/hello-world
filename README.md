@@ -1,6 +1,6 @@
 # hello-world
 
 
-Hi Guys,
+Hi There,
 
-  This is Bala here, I'm trying to understand this version control system.
+  Bala here, I'm trying to understand this version control system.
